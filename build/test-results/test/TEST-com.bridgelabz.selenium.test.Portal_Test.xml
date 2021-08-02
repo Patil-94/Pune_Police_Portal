@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.selenium.test.Portal_Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-28T07:17:22" hostname="DESKTOP-KFGQFK8" time="22.772">
+  <properties/>
+  <testcase name="portal_test" classname="com.bridgelabz.selenium.test.Portal_Test" time="22.772"/>
+  <system-out><![CDATA[Successfully launched on police portal
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
